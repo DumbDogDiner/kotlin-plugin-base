@@ -1,0 +1,13 @@
+### Intellij IDEA ###
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+#  You may put any files in the .idea folder that
+# you wish to commit below with a '!' prefix.
+
+### Gradle ###
+
+.gradle/
