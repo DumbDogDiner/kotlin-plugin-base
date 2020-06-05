@@ -5,9 +5,18 @@
 *.ipr
 *.iws
 
+### VS Code ###
+
+bin/
+.vscode
+.classpath
+.project
+.settings/
+
 #  You may put any files in the .idea folder that
 # you wish to commit below with a '!' prefix.
 
 ### Gradle ###
 
 .gradle/
+build/
